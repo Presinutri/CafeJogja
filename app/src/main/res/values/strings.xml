@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CafeJogja</string>
+    <string name="nama_cafe">Nama Cafe</string>
+    <string name="lokasi_cafe">Lokasi Cafe</string>
+    <string name="jam_buka">Jam Buka</string>
+    <string name="nama">Fariz Albab</string>
+    <string name="email">farizalbab@gmail.com</string>
+    <string name="sumber">https://www.tripzilla.id/kafe-instagramworthy-di-jogja/8150</string>
+</resources>
